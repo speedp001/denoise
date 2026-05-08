@@ -1,0 +1,21 @@
+[submodule "third_party/NKSR"]
+	path = third_party/NKSR
+	url = https://github.com/nv-tlabs/NKSR.git
+[submodule "third_party/P2P-Bridge"]
+	path = third_party/P2P-Bridge
+	url = https://github.com/matvogel/P2P-Bridge.git
+[submodule "third_party/IterativePFN"]
+	path = third_party/IterativePFN
+	url = https://github.com/ddsediri/IterativePFN.git
+[submodule "third_party/PointCleanNet"]
+	path = third_party/PointCleanNet
+	url = https://github.com/mrakotosaon/pointcleannet.git
+[submodule "third_party/score-denoise"]
+	path = third_party/score-denoise
+	url = https://github.com/luost26/score-denoise.git
+[submodule "third_party/BuildAnyPoint"]
+	path = third_party/BuildAnyPoint
+	url = https://github.com/ai4city-hkust/BuildAnyPoint.git
+[submodule "third_party/Seen2Scene"]
+	path = third_party/Seen2Scene
+	url = https://github.com/quan-meng/seen2scene.git

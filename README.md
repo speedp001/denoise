@@ -1,8 +1,11 @@
 # denoise
 
 # Point Cloud Refinement Pipeline
+
 Point cloud denoising and refinement framework for multi-format 3D sensor data.
+
 ![Denoising Pipeline](https://i.imgur.com/TrxcBBI.png)
+
 ---
 
 # Step 1: Denoising
